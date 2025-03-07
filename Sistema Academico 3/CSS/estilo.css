@@ -1,0 +1,48 @@
+*{
+
+    /*Abaixo código
+    para colocar margem
+    em todo o projeto 
+    margin: 3px; 4px 3px 3px;
+    margin: 4px
+     */
+
+    margin: 4px 3px 4px;
+
+}
+
+
+body {
+
+    background-color:	#40E0D0;
+  }
+
+#banner {
+
+    width: default;
+    height: 400px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+
+}
+
+h1{
+
+    background-color: 	#008080;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+
+}
+
+#bem_vindo{
+    font-family: Courier;
+    color: #006400;
+    font-size: 22px;
+}
+
+#nota{
+    font-family: Arial;
+    color: green ;
+    font-size: 30px;
+}
